@@ -1,6 +1,8 @@
-                 #*B o b C o d i z*
 
-# Welcome to My Coding Realm 🚀
+
+# C o d i z 
+
+## W e l c o m e t o m y c o d i n g r e a l m 🚀
 
 I'm a passionate Software Engineer transforming visionary ideas into digital reality. 
 My code narrates innovation, pushing the boundaries of tech.
