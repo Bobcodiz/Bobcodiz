@@ -14,7 +14,7 @@ public class CodizInspiration {
         // In the realm of code, innovation is our currency,
         // creativity our fuel. Break the rules, rewrite the norms,
         // and let your code be the canvas for tomorrow's ideas.
-        System.out.println("Innovate with code!");
+        System.out.println("Innovate with code, create with Codiz!");
     }
 }
 
